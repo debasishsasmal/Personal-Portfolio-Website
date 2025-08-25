@@ -14,7 +14,8 @@ You can view the live site here: [**https://debasishsasmal.github.io/**](https:/
 ### **Screenshot**
 
 
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/d2edd107-0952-40dd-8793-2335a916868f" />
+<img width="1278" height="975" alt="Screenshot 2025-08-25 181419" src="https://github.com/user-attachments/assets/5484eadf-44ff-4a69-965a-016f74ab1b06" />
+
 
 ---
 

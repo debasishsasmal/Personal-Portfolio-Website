@@ -7,7 +7,7 @@ This is my personal portfolio website, built from scratch to showcase my skills,
 
 ### **Live Demo**
 
-You can view the live site here: [**https://debasishsasmal.github.io/**]([https://debasishsasmal.github.io/](https://debasishsasmal.github.io/Personal-Portfolio-Website/))
+You can view the live site here: ([https://debasishsasmal.github.io/](https://debasishsasmal.github.io/Personal-Portfolio-Website/))
 
 ---
 
